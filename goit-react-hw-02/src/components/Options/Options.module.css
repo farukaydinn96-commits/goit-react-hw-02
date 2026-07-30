@@ -1,0 +1,18 @@
+.optionsContainer {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.optionsContainer button {
+  padding: 8px 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.optionsContainer button:hover {
+  background-color: #f0f0f0;
+}
